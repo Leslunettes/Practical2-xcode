@@ -45,6 +45,8 @@ public:
 	void clear();
 private:
 	// TODO: complete me
+	int vector[SIZE];
+	int lastposition;
 };
 
 #endif /* VECTOR_H_ */
